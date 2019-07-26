@@ -20,6 +20,7 @@ The goal of this workshop is to catalyze the collaboration between reinforcement
 
 
 - Shipra Agrawal
+- Sham Kakade
 - Ben Van Roy
 - Mengdi Wang
 - Huizhen Yu
