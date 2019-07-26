@@ -45,12 +45,11 @@ The submission deadline is **September 10th, 2019, 11:59pm PST** and the accepta
 
 # Dates
 
-- Submission deadline: **September 10th, 2019** (11:59 pm [AOE][aoe]) 
+- Submission deadline: **September 10th, 2019** (11:59 pm <a href="https://www.timeanddate.com/time/zones/aoe">[AOE]</a>) 
 - Notifications: **Octorber 1st, 2019** 
-- Camera ready: **November 15th, 2019** (11:59 pm [AOE][aoe]) 
-<!-- | Workshop | **December 13th 2019** |
+- Camera ready: **November 15th, 2019** (11:59 pm <a href="https://www.timeanddate.com/time/zones/aoe">[AOE]</a>) 
+<!-- Workshop: **December 13th 2019** 
  -->
-[aoe]: https://www.timeanddate.com/time/zones/aoe
 
 
 # Committees
