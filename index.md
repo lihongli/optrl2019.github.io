@@ -57,7 +57,12 @@ The submission deadline is **September 10th, 2019, 11:59pm PST** and the accepta
 ## Organizers
 
 <div style="text-align: left;">
-Bo Dai, Niao He, Nicolas Le Roux, Lihong Li, Dale Schuurmans, Martha White
+- Bo Dai
+- Niao He
+- Nicolas Le Roux
+- Lihong Li
+- Dale Schuurmans
+- Martha White
 </div>
 
 <p style="text-align: left">
