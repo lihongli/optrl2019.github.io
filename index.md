@@ -27,9 +27,7 @@ The goal of this workshop is to catalyze the collaboration between reinforcement
 
 # Call for papers
 
-<p style="text-align: left">
 We will invite submissions on topics such as, but not limited to: 
-</p>
 
 - Optimization formulations and algorithms for RL
 - Optimization correspondences of the components in RL (e.g., on/off-policy, exploration, replay buffer, entropy regularization, target networks, reward shaping, variance reduction, stability, and generalization, etc)
@@ -45,13 +43,11 @@ A submission is up to 6 pages long in the NeurIPS style, excluding references an
 The submission deadline is **September 10th, 2019, 11:59pm PST** and the acceptance notification will be distributed no later than October 1st, 2019. Submissions will be accepted as contributed talks, spotlight or poster presentations based on novelty, technical merit and alignment to the workshop's goals. Final versions will be posted on the workshop website. 
 
 
-## Dates
+# Dates
 
-| Event | Date |
-| ----- | ---- |
-| Submission deadline | **September 10th, 2019** (11:59 pm [AOE][aoe]) |
-| Notifications | **Octorber 1st, 2019** |
-| Camera ready | **November 15th, 2019** (11:59 pm [AOE][aoe]) |
+- Submission deadline: **September 10th, 2019** (11:59 pm [AOE][aoe]) 
+- Notifications: **Octorber 1st, 2019** 
+- Camera ready: **November 15th, 2019** (11:59 pm [AOE][aoe]) 
 <!-- | Workshop | **December 13th 2019** |
  -->
 [aoe]: https://www.timeanddate.com/time/zones/aoe
