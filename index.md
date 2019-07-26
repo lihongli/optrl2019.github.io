@@ -44,7 +44,7 @@ A submission is up to 6 pages long in the NeurIPS style, excluding references an
 The submission deadline is **September 10th, 2019, 11:59pm PST** and the acceptance notification will be distributed no later than October 1st, 2019. Submissions will be accepted as contributed talks, spotlight or poster presentations based on novelty, technical merit and alignment to the workshop's goals. Final versions will be posted on the workshop website. 
 
 
-# Dates
+## Dates
 
 | Event | Date |
 | ----- | ---- |
