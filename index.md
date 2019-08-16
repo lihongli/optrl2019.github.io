@@ -7,9 +7,9 @@ layout: default
 
 # Background
 
-Dynamic programming (DP) based algorithms, which apply various forms of the Bellman operator, dominate the literature on model-free reinforcement learning (RL). While DP is powerful, the value function estimate can oscillate or even diverge when function approximation is introduced with off-policy data, except in special cases [1-8]. This problem has been well-known for decades (referred to as the deadly triad in the literature), and has remained a critical open fundamental problem in RL.
+Dynamic programming (DP) based algorithms, which apply various forms of the Bellman operator, dominate the literature on model-free reinforcement learning (RL). While DP is powerful, the value function estimate can oscillate or even diverge when function approximation is introduced with off-policy data, except in special cases. This problem has been well-known for decades (referred to as the deadly triad in the literature), and has remained a critical open fundamental problem in RL.
 
-More recently, the community witnessed a fast-growing trend that frames RL problems as well-posed optimization problems, in which a proper objective function is proposed whose minimization results in the optimal value function [9-28]. Such an optimization-based approach provides a promising perspective that brings mature mathematical tools to bear on integrating linear/nonlinear function approximation with off-policy data, while avoiding DP's inherent instability. Moreover, the optimization perspective is naturally extensible to incorporating constraints, sparsity regularization, distributed multi-agent scenarios, and other new settings.
+More recently, the community witnessed a fast-growing trend that frames RL problems as well-posed optimization problems, in which a proper objective function is proposed whose minimization results in the optimal value function. Such an optimization-based approach provides a promising perspective that brings mature mathematical tools to bear on integrating linear/nonlinear function approximation with off-policy data, while avoiding DP's inherent instability. Moreover, the optimization perspective is naturally extensible to incorporating constraints, sparsity regularization, distributed multi-agent scenarios, and other new settings.
 
 In addition to being able to apply powerful optimization techniques to a variety of RL problems, the special recursive structure and restricted exploration sampling in RL also naturally raises the question of whether tailored algorithms can be developed to improve sample efficiency, convergence rates, and asymptotic performance, under the guidance of the established optimization techniques.
 
@@ -19,11 +19,13 @@ The goal of this workshop is to catalyze the collaboration between reinforcement
 # Speakers
 
 
-- Shipra Agrawal
-- Sham Kakade
-- Ben Van Roy
-- Mengdi Wang
-- Huizhen Yu
+- <a href="http://www.columbia.edu/~sa3305/">Shipra Agrawal</a> (Columbia University)
+- <a href="https://homes.cs.washington.edu/~sham/">Sham Kakade</a> (University of Washington) 
+- <a href="https://web.stanford.edu/~bvr/">Benjamin Van Roy</a> (Stanford University) 
+- <a href="https://mwang.princeton.edu/">Mengdi Wang</a> (Princeton University) 
+- <a href="https://directory.ualberta.ca/person/huizhen">Huizhen Yu</a> (University of Alberta)
+
+
 
 # Call for papers
 
@@ -38,9 +40,9 @@ Other topics at the intersection between reinforcement learning and optimization
 - Open problems in optimization raised in RL tasks
 
 
-A submission is up to 6 pages long in the NeurIPS style, excluding references and appendices. The submission process will be handled via CMT. Author names need not be anonymised. Submission may extend beyond the page limit, but reviewers are not expected to read beyond the first 6 pages. If the work has been previously published in a machine learning journal or conference, including NeurIPS 2019, the workshop submission should be accompanied with a cover letter clearly indicating the venue where it has been published and the extensions beyond the previous work. Parallel submissions (e.g., AISTATS and ICLR) are permitted.
+A submission is up to 6 pages long in the NeurIPS style, excluding references and appendices. The submission process will be handled via <a href="https://cmt3.research.microsoft.com/OPTRL2019">CMT</a>. Author names need not be anonymised. Parallel submissions (e.g., AISTATS and ICLR) are permitted.
 
-The submission deadline is **September 10th, 2019, 11:59pm PST** and the acceptance notification will be distributed no later than October 1st, 2019. Submissions will be accepted as contributed talks, spotlight or poster presentations based on novelty, technical merit and alignment to the workshop's goals. Final versions will be posted on the workshop website. 
+The submission deadline is **September 10th, 2019, 11:59pm AOE** and the acceptance notification will be distributed no later than **October 1st, 2019**. Submissions will be accepted as contributed talks, spotlight or poster presentations based on novelty, technical merit and alignment to the workshop's goals. Final versions will be posted on the workshop website. 
 
 
 # Dates
@@ -56,9 +58,17 @@ The submission deadline is **September 10th, 2019, 11:59pm PST** and the accepta
 
 ## Organizers
 
-<div style="text-align: left;">
+<!-- <div style="text-align: left;">
 Bo Dai, Niao He, Nicolas Le Roux, Lihong Li, Dale Schuurmans, Martha White
 </div>
+ -->
+
+- <a href="https://sites.google.com/site/daibohr/">Bo Dai</a> (Google Brain)
+- Niao He (University of Illinois at Urbana-Champaign)
+- Nicolas Le Roux (Google Brain)
+- Lihong Li (Google Brain) 
+- Dale Schuurmans (Google Brain & University of Alberta)
+- Martha White (University of Alberta)
 
 <p style="text-align: left">
 For questions, please contact us at:
