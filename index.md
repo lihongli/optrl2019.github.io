@@ -64,11 +64,11 @@ Bo Dai, Niao He, Nicolas Le Roux, Lihong Li, Dale Schuurmans, Martha White
  -->
 
 - <a href="https://sites.google.com/site/daibohr/">Bo Dai</a> (Google Brain)
-- Niao He (University of Illinois at Urbana-Champaign)
-- Nicolas Le Roux (Google Brain)
-- Lihong Li (Google Brain) 
-- Dale Schuurmans (Google Brain & University of Alberta)
-- Martha White (University of Alberta)
+- <a href="http://niaohe.ise.illinois.edu/">Niao He</a> (University of Illinois at Urbana-Champaign)
+- <a href="http://nicolas.le-roux.name/">Nicolas Le Roux</a> (Google Brain)
+- <a href="https://lihongli.github.io/">Lihong Li</a> (Google Brain) 
+- <a href="https://webdocs.cs.ualberta.ca/~dale/">Dale Schuurmans</a> (Google Brain & University of Alberta)
+- <a href="https://webdocs.cs.ualberta.ca/~whitem/">Martha White</a> (University of Alberta)
 
 <p style="text-align: left">
 For questions, please contact us at:
