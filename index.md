@@ -16,7 +16,7 @@ In addition to being able to apply powerful optimization techniques to a variety
 The goal of this workshop is to catalyze the collaboration between reinforcement learning and optimization communities, pushing the boundaries from both sides. It will provide a forum for establishing a mutually accessible introduction to current research on this integration, and allow exploration of recent advances in optimization for potential application in reinforcement learning. It will also be a window to identify and discuss existing challenges and forward-looking problems of interest in reinforcement learning to the optimization community. 
 
 
-# Speakers
+# Invited Speakers
 
 
 - <a href="http://www.columbia.edu/~sa3305/">Shipra Agrawal</a> (Columbia University)
