@@ -44,10 +44,11 @@ A submission is up to 6 pages long in the NeurIPS style, excluding references an
 
 The submission deadline is **September 10th, 2019, 11:59pm AOE** and the acceptance notification will be distributed no later than **October 1st, 2019**. Submissions will be accepted as contributed talks, spotlight or poster presentations based on novelty, technical merit and alignment to the workshop's goals. Final versions will be posted on the workshop website. 
 
+Paper submission portal: <a href="https://cmt3.research.microsoft.com/OPTRL2019"> https://cmt3.research.microsoft.com/OPTRL2019 </a>
 
 # Dates
 
-- Submission deadline: **September 10th, 2019** (11:59 pm <a href="https://www.timeanddate.com/time/zones/aoe">AOE</a>) 
+- Submission deadline: **~~September 10th~~, September 17th, 2019** (11:59 pm <a href="https://www.timeanddate.com/time/zones/aoe">AOE</a>) 
 - Notifications: **Octorber 1st, 2019** 
 - Camera ready: **November 15th, 2019** (11:59 pm <a href="https://www.timeanddate.com/time/zones/aoe">AOE</a>) 
 <!-- Workshop: **December 13th 2019** 
