@@ -71,14 +71,14 @@ Bo Dai, Niao He, Nicolas Le Roux, Lihong Li, Dale Schuurmans, Martha White
 - <a href="https://webdocs.cs.ualberta.ca/~dale/">Dale Schuurmans</a> (Google Brain & University of Alberta)
 - <a href="https://webdocs.cs.ualberta.ca/~whitem/">Martha White</a> (University of Alberta)
 
-<p style="text-align: left">
-For questions, please contact us:
-<a href="mailto:optrl2019@gmail.com">optrl2019@gmail.com</a>
-</p>
-
 
 ## Program committee
 
 <div style="text-align: left;">
 TBD
 </div>
+
+<p style="text-align: left">
+For questions, please contact us:
+<a href="mailto:optrl2019@gmail.com">optrl2019@gmail.com</a>
+</p>
