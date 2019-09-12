@@ -54,6 +54,21 @@ Paper submission portal: <a href="https://cmt3.research.microsoft.com/OPTRL2019"
 <!-- Workshop: **December 13th 2019** 
  -->
 
+# Sponsors
+
+<p style="text-align: left">
+We thank our sponsors for making this workshop possible:
+</p>
+
+<div style="text-align: left;">
+{%- for sponsor in site.data.sponsors -%}
+<div class="sponsor">
+  <a href="{{ sponsor.url }}" target="_blank">
+    <img src="{{ sponsor.image }}" />
+  </a>
+</div>
+{%- endfor -%}
+</div>
 
 # Committees
 

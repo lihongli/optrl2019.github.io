@@ -1,0 +1,3 @@
+- name: Google
+  image: assets/logos/google.png
+  url: https://ai.google/research/
