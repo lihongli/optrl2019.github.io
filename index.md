@@ -54,7 +54,11 @@ Paper submission portal: <a href="https://cmt3.research.microsoft.com/OPTRL2019"
 <!-- Workshop: **December 13th 2019** 
  -->
 
-# Sponsors
+# Awards
+
+We are working to find funding to support travel for students, especially those in underrepresented groups.
+
+<!-- # Sponsors
 
 <p style="text-align: left">
 We thank our sponsors for making this workshop possible:
@@ -69,7 +73,7 @@ We thank our sponsors for making this workshop possible:
 </div>
 {%- endfor -%}
 </div>
-
+ -->
 # Committees
 
 ## Organizers
