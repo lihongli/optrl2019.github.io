@@ -42,13 +42,13 @@ Other topics at the intersection between reinforcement learning and optimization
 
 A submission is up to 6 pages long in the <a href="https://nips.cc/Conferences/2019/PaperInformation/StyleFiles">NeurIPS style</a>, excluding references and appendices. The submission process will be handled via <a href="https://cmt3.research.microsoft.com/OPTRL2019">CMT</a>. Author names need not be anonymised. Parallel submissions (e.g., AISTATS and ICLR) are permitted.
 
-The submission deadline is **~~September 10th~~ September 17th, 2019, 11:59pm AOE** and the acceptance notification will be distributed no later than **October 1st, 2019**. Submissions will be accepted as contributed talks, spotlight or poster presentations based on novelty, technical merit and alignment to the workshop's goals. Final versions will be posted on the workshop website. 
+The submission deadline is **~~September 10th~~ ~~September 17th, 2019, 11:59pm AOE~~** and the acceptance notification will be distributed no later than **October 1st, 2019**. Submissions will be accepted as contributed talks, spotlight or poster presentations based on novelty, technical merit and alignment to the workshop's goals. Final versions will be posted on the workshop website. 
 
 Paper submission portal: <a href="https://cmt3.research.microsoft.com/OPTRL2019"> https://cmt3.research.microsoft.com/OPTRL2019 </a>
 
 # Dates
 
-- Submission deadline: **~~September 10th~~, September 17th, 2019** (11:59 pm <a href="https://www.timeanddate.com/time/zones/aoe">AOE</a>) 
+- Submission deadline: **~~September 10th~~, ~~September 17th, 2019~~** (~~11:59 pm <a href="https://www.timeanddate.com/time/zones/aoe">AOE</a>~~) 
 - Notifications: **Octorber 1st, 2019** 
 - Camera ready: **November 15th, 2019** (11:59 pm <a href="https://www.timeanddate.com/time/zones/aoe">AOE</a>) 
 <!-- Workshop: **December 13th 2019** 
