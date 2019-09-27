@@ -1,3 +1,5 @@
+theme: jekyll-theme-cayman
+
 intro:
 title: Optimization Foundation for Reinforcement Learning
 description:
