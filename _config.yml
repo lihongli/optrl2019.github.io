@@ -3,4 +3,10 @@ theme: jekyll-theme-cayman
 intro:
 title: Optimization Foundation for Reinforcement Learning
 description:
-- Workshop at NeurIPS, Dec 13-14th. 2019, Vancouver, Canada
+- Workshop at NeurIPS 2019, Dec 14th. 2019
+- Ballroom A, Vancouver Convention Center, Vancouver, Canada
+buttons:
+  Speaker: '#speakers'
+  Dates: '#dates'
+  Awards: '#awards'
+  Organizers: '#organizers'
