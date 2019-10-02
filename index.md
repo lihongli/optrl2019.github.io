@@ -49,14 +49,16 @@ Paper submission portal: <a href="https://cmt3.research.microsoft.com/OPTRL2019"
 # Dates
 
 - Submission deadline: **~~September 10th~~, ~~September 17th, 2019~~** (~~11:59 pm <a href="https://www.timeanddate.com/time/zones/aoe">AOE</a>~~) 
-- Notifications: **Octorber 1st, 2019** 
+- Notifications: **~~October 1st, 2019~~** 
 - Camera ready: **November 15th, 2019** (11:59 pm <a href="https://www.timeanddate.com/time/zones/aoe">AOE</a>) 
 <!-- Workshop: **December 13th 2019** 
  -->
 
+
 # Awards
 
 We are working to find funding to support travel for students, especially those in underrepresented groups.
+
 
 <!-- # Sponsors
 
@@ -74,6 +76,86 @@ We thank our sponsors for making this workshop possible:
 {%- endfor -%}
 </div>
  -->
+# Accepted Papers
+
+We have received many high-quality submissions. The order below is random. Some papers will be selected to give an additional oral/spotlight presentation, which will be announced soon.
+
+- **Kalman Optimization for Value Approximation**. Shirli Di-Castro, Shie Mannor
+- **Hierarchical model-based policy optimization: from actions to action sequences and back**. Daniel McNamee
+- **Representational Limits in Reinforcement Learning**. Simon Du, Sham Kakade, Ruosong Wang, Lin Yang
+- **Apprenticeship Learning via Frank-Wolfe**.  Tom Zahavy, Haim Kaplan, Alon Cohen, Yishay Mansour	
+- **Improving Evolutionary Strategies With Past Descent Directions**. Asier Mujika, Florian Meier, Marcelo Matheus Gauy, Angelika Steger
+- **ALGAE: Policy Gradient from Arbitrary Experience**.	Ofir Nachum, Bo Dai, Ilya  Kostrikov, Dale  Schuurmans
+- **A Distributional Analysis of Sampling-Based Reinforcement Learning Algorithms**. Philip nAmortila, Doina Precup, Prakash  Panangaden, Marc G. Bellemare	
+- **ISL: Optimal Policy Learning With Optimal Exploration-Exploitation Trade-Off**. Lucas C Cassano, Ali H Sayed
+- **Learning Reward Machines for Partially Observable Reinforcement Learning**. Rodrigo A Toro Icarte, Ethan Waldie, Toryn  Klassen,  Richard Valenzano, Margarita  Castro, Sheila A.  McIlraith	
+- **Provably Convergent Off-Policy Actor-Critic with Function Approximation**. Shangtong Zhang, Bo Liu, Hengshuai Yao, Shimon Whiteson
+- **Q-learning with UCB Exploration is Sample Efficient for Infinite-Horizon MDP**.	Kefan Dong, Yuanhao Wang, Xiaoyu Chen, Liwei Wang
+- **Adaptive Smoothing Path Integral Control**. Dominik Thalmeier, Bert Kappen, Simone Totaro, Vicenç Gómez
+- **Data Efficient Training for Reinforcement Learning with Adaptive Behavior Policy Sharing**. Ge Liu, Heng-Tze Cheng, Rui  Wu, Jing  Wang, Jayiden Ooi, Ang Li, Sibon Li, Lihong Li, Craig Boutilier
+- **A Two Time-Scale Update Rule Ensuring Convergence of Episodic Reinforcement Learning Algorithms at the Example of RUDDER**. Markus 	Holzleitner, José Arjona-Medina, Marius-Constantin  Dinu, Sepp  Hochreiter
+- **Distributional Reinforcement Learning for Energy-Based Sequential Models**. Tetiana Parshakova, Jean-Marc Andreoli, Marc Dymetman
+- **Multi-Task Reinforcement Learning without Interference**. Tianhe Yu, Saurabh Kumar, Abhishek Gupta, Karol Hausman, Sergey Levine, Chelsea Finn
+- **Toward Provably Unbiased Temporal-Difference Value Estimation**. Roy Fox
+- **Provable Q-Iteration without Concentrability** Ming Yu, Zhuoran Yang, Mengdi Wang, Zhaoran Wang
+- **Faster saddle-point optimization for solving large-scale Markov decision processes**. Joan Bas Serrano, Gergely Neu
+- **Approximate information state for partially observed systems**. Jayakumar Subramanian, Aditya Mahajan
+- **Logarithmic Regret for Online Control**. Naman Agarwal, Elad Hazan, Karan Singh	
+- **Solving Discounted Stochastic Two-Player Games with Near-Optimal Time and Sample Complexity**. Aaron Sidford, Mengdi Wang, Lin Yang, Yinyu Ye
+- **Improved Upper and Lower Bounds for Policy and Strategy Iteration**. Aaron Sidford, Mengdi Wang, Lin  Yang, Yinyu Ye
+- **Reinforcement Learning in Feature Space: Matrix Bandit, Kernels, and Regret Bound**. Lin Yang, Mengdi Wang
+- **Deterministic Bellman Residual Minimization**. Ehsan Saleh, Nan Jiang,
+- **Empirical Likelihood for Contextual Bandits**. Nikos Karampatziakis, John Langford, Paul Mineiro.
+- **Reinforcement Learning with Langevin Dynamics**. Parameswaran Kamalaruban, Doga Tekin, Paul Rolland, Volkan Cevher
+- **Provably Efficient Reinforcement Learning with Linear Function Approximation**. Chi Jin, Zhuoran Yang, Zhaoran Wang, Michael Jordan
+- **On the Finite-Time Convergence of Actor-Critic Algorithm**.	Shuang Qiu, Zhuoran Yang, Jieping Ye, Zhaoran Wang
+- **Approximability Gap between Model-based and Model-free Algorithms in Continuous State Space**. Kefan Dong, Yuping Luo, Tengyu Ma
+- **Entropy Regularization with Discounted Future State Distribution in Policy Gradient Methods**. Riashat Islam, Raihan Seraj, Pierre-Luc Bacon, Doina Precup,
+- **Batch and Sequential Policy Optimization with Doubly Robust Objectives**. Alex P Lewandowski, Dale Schuurmans
+- **A Single Time-scale Stochastic Approximation Method for Nested Stochastic Optimization**. Saeed Ghadimi, Andrzej Ruszczynski, Mengdi Wang
+- **CAQL: Continuous Action Q-Learnin**. Yinlam Chow, Moonkyung Ryu, Craig Boutilier, Ross Anderson, Christian Tjandraatmadja 
+- **Harnessing Infinite-Horizon Off-Policy Evaluation: Double Robustness via Duality**. Ziyang Tang, Yihao Feng, Lihong Li, Denny Zhou, Qiang Liu
+- **The Gambler's Problem and Beyond**. Baoxiang Wang, Shuai  Li, Jiajin Li, Siu	On
+- **Toward Understanding Catastrophic Interference in Online Reinforcement Learning**. Vincent Liu, Hengshuai Yao, Martha White
+- **Optimistic Adaptive Gradient Methods**. Xinyi Chen, Simon Du, Elad Hazan
+- **QNTRPO: Including Curvature in TRPO**. Devesh K Jha, Arvind U Raghunathan, Diego Romeres
+- **Selectively Planning with Imperfect Models via Learned Error Signals**. Muhammad Zaheer, Samuel Sokota, Erin Talvitie, Martha White
+- **A Stochastic Derivative Free Optimization Method with Momentum**. Eduard Gorbunov, Adel Bibi, Ozan Sener, El Houcine Bergou, Peter Richtarik
+- **Actor-Critic Provably Finds Nash Equilibria of Linear-Quadratic Mean-Field Games**. Zuyue Fu, Zhuoran Yang, Yongxin Chen, Zhaoran Wang
+- **Trajectory-wise Control Variates for Variance Reduction in Policy Gradient Methods**. Xinyan Yan, Ching-An Cheng, Byron Boots
+- **Continuous Online Learning and New Insights to Online Imitation Learning**. Jonathan Lee, Ching-An Cheng, Ken Goldberg, Byron Boots
+- **Analyzing the Variance of Policy Gradient Estimators for the Linear-Quadratic Regulator**. James Preiss, Chen-Yu Wei, Sébastien Arnold, Marius Kloft
+- **Sample Efficient Policy Gradient Methods with Recursive Variance Reduction**. Pan Xu, Xi Gao, Quanquan Gu
+- **Adaptive Trust Region Policy Optimization: Convergence and Faster Rates of regularized MDPs**. Lior Shani, Yonathan Efroni, Shie Mannor
+- **A Lagrangian Method for Inverse Problems in Reinforcement Learning**. Pierre-Luc Bacon, Florian T Schaefer, Clement Gehring, Animashree Anandkumar, Emma Brunskill
+- **Policy Continuation and Policy Evolution with Hindsight Inverse Dynamics**. Hao Sun, Bo  Dai, Zhizhong Li, Xiaotong Liu, Rui  Xu, Dahua Lin, Bolei Zhou
+- **Observational Overfitting in Reinforcement Learning**. Xingyou Song, YiDing Jiang, Yilun Du, Behnam Neyshabur
+- **Compatible features for Monotonic Policy Improvement**. Marcin B Tomczak, Sergio Valcarcel Macua, Enrique Munoz De Cote, Peter Vrancx
+- **Analysis of Q-Learning: Switching System Approach**. Donghwan Lee, Niao He
+- **On the Convergence of Approximate and Regularized Policy Iteration Schemes** Elena Smirnova, Elvis Dohmatob
+- **An Asynchronous Multi-Agent Actor-Critic Algorithm for Distributed Reinforcement Learning**. Yixuan Lin, Yuehan Luo, Wesley Suttle, Kaiqing Zhang, Zhuoran Yang, Zhaoran  Wang, Tamer Basar, Romeil Sandhu, Ji Liu
+- **On the Expected Dynamics of Nonlinear TD Learning**. David Brandfonbrener, Joan Bruna
+- **Revisit Policy Optimization in Matrix Form**. Sitao Luan, Xiao-Wen Chang, Doina Precup
+- **A Finite Time Analysis of Temporal Difference Learning With Linear Function Approximation**. Jalaj Bhandari, Daniel Russo
+- **Global Optimality Guarantees For  Policy Gradient Methods**. Jalaj Bhandari, Daniel Russo
+- **On the Sample Complexity of Actor-Critic for Reinforcement Learning**. Harshat Kumar, Alec Koppel, Alejandro Ribeiro
+- **Adaptive Discretization for Episodic Reinforcement Learning in Metric Spaces**. Siddhartha Banerjee, Sean Sinclair, Christina Lee Yu
+- **Fast distributed temporal-difference learning via homotopy stochastic primal-dual optimization**. Dongsheng Ding, Xiaohan Wei, Zhuoran Yang, Zhaoran Wang, Mihailo Jovanovic
+- **Performance of Q-learning with Linear Function Approximation: Stability and Finite Time Analysis**. Zaiwei Chen, Sheng Zhang, Thinh T Doan, Siva Theja Maguluri, John-Paul Clarke
+- **Feature-Based Q-Learning for Two-Player Stochastic Games**. Zeyu Jia, Lin Yang, Mengdi Wang
+- **A Convergence Result for Regularized Actor-Critic Methods**. Wesley Suttle, Zhuoran  Yang, Kaiqing Zhang, Ji Liu
+- **Neural Policy Gradient Methods: Global Optimality and Rates of Convergence**. Lingxiao Wang, Qi Cai, Zhuoran Yang
+- **All-Action Policy Gradient Methods: A Numerical Integration Approach**. Benjamin Petit, Loren Amdahl-Culleton, Yao Liu, Jimmy Smith, Pierre-Luc Bacon
+- **On Connections between Constrained Optimization and Reinforcement Learning**. Nino Vieillard, Olivier Pietquin, Matthieu Geist
+- **Worst-Case Regret Bound for Perturbation Based Exploration in Reinforcement Learning**. Ziping Xu, Ambuj Tewari
+- **Generalized Policy Updates for Policy Optimization**. Saurabh Kumar, Robert Dadashi, Zafarali Ahmed, Dale Schuurmans, Marc G. Bellemare
+- **Stochastic convex optimization for provably efficient apprenticeship learning**.  Angeliki Kamoutsi
+- **Discounted Reinforcement Learning is Not an Optimization Problem**. Abhishek Naik, Roshan Shariff, Niko Yasui, Richard Sutton
+- **On Computation and Generalization of Generative Adversarial Imitation Learning**. Minshuo Chen, Yizhou Wang, Tianyi  Liu, Xingguo Li, Zhuoran Yang, Zhaoran Wang, Tuo Zhao
+
+
+
+ 
 # Committees
 
 ## Organizers
@@ -96,6 +178,7 @@ Bo Dai, Niao He, Nicolas Le Roux, Lihong Li, Dale Schuurmans, Martha White
 <div style="text-align: left;">
 TBD
 </div>
+
 
 <p style="text-align: left">
 For questions, please contact us:
