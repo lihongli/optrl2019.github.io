@@ -86,7 +86,7 @@ We have received many high-quality submissions. The order below is random. Some 
 - **Apprenticeship Learning via Frank-Wolfe**.  Tom Zahavy, Haim Kaplan, Alon Cohen, Yishay Mansour	
 - **Improving Evolutionary Strategies With Past Descent Directions**. Asier Mujika, Florian Meier, Marcelo Matheus Gauy, Angelika Steger
 - **ALGAE: Policy Gradient from Arbitrary Experience**.	Ofir Nachum, Bo Dai, Ilya  Kostrikov, Dale  Schuurmans
-- **A Distributional Analysis of Sampling-Based Reinforcement Learning Algorithms**. Philip nAmortila, Doina Precup, Prakash  Panangaden, Marc G. Bellemare	
+- **A Distributional Analysis of Sampling-Based Reinforcement Learning Algorithms**. Philip Amortila, Doina Precup, Prakash  Panangaden, Marc G. Bellemare	
 - **ISL: Optimal Policy Learning With Optimal Exploration-Exploitation Trade-Off**. Lucas C Cassano, Ali H Sayed
 - **Learning Reward Machines for Partially Observable Reinforcement Learning**. Rodrigo A Toro Icarte, Ethan Waldie, Toryn  Klassen,  Richard Valenzano, Margarita  Castro, Sheila A.  McIlraith	
 - **Provably Convergent Off-Policy Actor-Critic with Function Approximation**. Shangtong Zhang, Bo Liu, Hengshuai Yao, Shimon Whiteson
@@ -113,7 +113,7 @@ We have received many high-quality submissions. The order below is random. Some 
 - **Entropy Regularization with Discounted Future State Distribution in Policy Gradient Methods**. Riashat Islam, Raihan Seraj, Pierre-Luc Bacon, Doina Precup,
 - **Batch and Sequential Policy Optimization with Doubly Robust Objectives**. Alex P Lewandowski, Dale Schuurmans
 - **A Single Time-scale Stochastic Approximation Method for Nested Stochastic Optimization**. Saeed Ghadimi, Andrzej Ruszczynski, Mengdi Wang
-- **CAQL: Continuous Action Q-Learnin**. Yinlam Chow, Moonkyung Ryu, Craig Boutilier, Ross Anderson, Christian Tjandraatmadja 
+- **CAQL: Continuous Action Q-Learning**. Yinlam Chow, Moonkyung Ryu, Craig Boutilier, Ross Anderson, Christian Tjandraatmadja 
 - **Harnessing Infinite-Horizon Off-Policy Evaluation: Double Robustness via Duality**. Ziyang Tang, Yihao Feng, Lihong Li, Denny Zhou, Qiang Liu
 - **The Gambler's Problem and Beyond**. Baoxiang Wang, Shuai  Li, Jiajin Li, Siu	On
 - **Toward Understanding Catastrophic Interference in Online Reinforcement Learning**. Vincent Liu, Hengshuai Yao, Martha White
@@ -155,7 +155,7 @@ We have received many high-quality submissions. The order below is random. Some 
 
 
 
- 
+
 # Committees
 
 ## Organizers
