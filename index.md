@@ -120,11 +120,11 @@ Bo Dai, Niao He, Nicolas Le Roux, Lihong Li, Dale Schuurmans, Martha White
     <li>Yash Satsangi</li>
     <li>Matthew Schlegel</li>
     <li>Karan Singh</li>
+    <li>Ziyang Tang</li>
   </ul> 
   </div>
   <div class="column">
   <ul>
-    <li>Ziyang Tang</li>
     <li>Valentin Thomas</li>
     <li>Sergio Valcarcel Macua</li>
     <li>Junfeng Wen</li>
