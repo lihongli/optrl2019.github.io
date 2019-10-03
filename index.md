@@ -179,20 +179,57 @@ Bo Dai, Niao He, Nicolas Le Roux, Lihong Li, Dale Schuurmans, Martha White
 <div class="row">
   <div class="column">
   <ul>
-    <li>Bo Dai</li>
-    <li>Bo Dai</li>
+    <li>Alekh Agarwal</li>
+    <li>Zafarali Ahmed</li>
+    <li>Kavosh Asad</li>
+    <li>Marlos C. Machado</li>
+    <li>Jianshu Chen</li>
+    <li>Yinlam Chow</li>
+    <li>Adithya Devraj</li>
+    <li>Thinh Doan</li>
+    <li>Simon Du</li>  
+    <li>Yihao Fen</li> 
   </ul> 
   </div>
   <div class="column">
   <ul>
-    <li>Bo Dai</li>
-    <li>Bo Dai</li>
+    <li>Roy Fox</li>
+    <li>Matthieu Geist</li>
+    <li>Saeed Ghadimi</li>
+    <li>Shixiang Gu</li>
+    <li>Botao Hao</li> 
+    <li>Nan Jiang</li> 
+    <li>Ajin Joseph</li> 
+    <li>Donghwan Lee</li>
+    <li>Alex Lewandowski</li>
+    <li>Vincent Liu</li>
   </ul> 
   </div>
   <div class="column">
   <ul>
-    <li>Bo Dai</li>
-    <li>Bo Dai</li>
+    <li>Rupam Mahmood</li> 
+    <li>Jincheng Mei</li>
+    <li>Ofir Nachum</li>
+    <li>Gergely Neu</li>
+    <li>Mohammad Norouzi</li>
+    <li>Andrew Patterson</li> 
+    <li>Yash Satsangi</li>
+    <li>Matthew Schlegel</li>
+    <li>Karan Singh</li>
+  </ul> 
+  </div>
+  <div class="column">
+  <ul>
+    <li>Ziyang Tang</li>
+    <li>Valentin Thomas</li>
+    <li>Sergio Valcarcel Macua</li>
+    <li>Junfeng Wen</li>
+    <li>Zheng Wen</li>
+    <li>Adam White</li>
+    <li>Tengyang Xie</li>
+    <li>Zhuoran Yang</li>
+    <li>Shangtong Zhang</li>
+    <li>Tuo Zhao</li>
   </ul> 
   </div>
 </div>
