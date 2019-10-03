@@ -176,8 +176,28 @@ Bo Dai, Niao He, Nicolas Le Roux, Lihong Li, Dale Schuurmans, Martha White
 ## Program committee
 
 <div style="text-align: left;">
-TBD
+<div class="row">
+  <div class="column">
+  <ul>
+    <li>Bo Dai</li>
+    <li>Bo Dai</li>
+  </ul> 
+  </div>
+  <div class="column">
+  <ul>
+    <li>Bo Dai</li>
+    <li>Bo Dai</li>
+  </ul> 
+  </div>
+  <div class="column">
+  <ul>
+    <li>Bo Dai</li>
+    <li>Bo Dai</li>
+  </ul> 
+  </div>
 </div>
+</div>
+
 
 
 <p style="text-align: left">
