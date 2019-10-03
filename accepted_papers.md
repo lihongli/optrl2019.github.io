@@ -77,6 +77,6 @@ We have received many high-quality submissions. The order below is random. Some 
 - **On Connections between Constrained Optimization and Reinforcement Learning**. Nino Vieillard, Olivier Pietquin, Matthieu Geist
 - **Worst-Case Regret Bound for Perturbation Based Exploration in Reinforcement Learning**. Ziping Xu, Ambuj Tewari
 - **Generalized Policy Updates for Policy Optimization**. Saurabh Kumar, Robert Dadashi, Zafarali Ahmed, Dale Schuurmans, Marc G. Bellemare
-- **Stochastic convex optimization for provably efficient apprenticeship learning**.  Angeliki Kamoutsi
+- **Stochastic convex optimization for provably efficient apprenticeship learning**.  Angeliki Kamoutsi, Angeliki Kamoutsi, Goran Banjac, and John Lygeros
 - **Discounted Reinforcement Learning is Not an Optimization Problem**. Abhishek Naik, Roshan Shariff, Niko Yasui, Richard Sutton
 - **On Computation and Generalization of Generative Adversarial Imitation Learning**. Minshuo Chen, Yizhou Wang, Tianyi  Liu, Xingguo Li, Zhuoran Yang, Zhaoran Wang, Tuo Zhao
