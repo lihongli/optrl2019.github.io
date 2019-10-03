@@ -93,13 +93,13 @@ Bo Dai, Niao He, Nicolas Le Roux, Lihong Li, Dale Schuurmans, Martha White
     <li>Thinh Doan</li>
     <li>Simon Du</li>  
     <li>Yihao Fen</li> 
+    <li>Roy Fox</li>
+    <li>Matthieu Geist</li>
+    <li>Saeed Ghadimi</li>
   </ul> 
   </div>
   <div class="column">
   <ul>
-    <li>Roy Fox</li>
-    <li>Matthieu Geist</li>
-    <li>Saeed Ghadimi</li>
     <li>Shixiang Gu</li>
     <li>Botao Hao</li> 
     <li>Nan Jiang</li> 
@@ -107,24 +107,20 @@ Bo Dai, Niao He, Nicolas Le Roux, Lihong Li, Dale Schuurmans, Martha White
     <li>Donghwan Lee</li>
     <li>Alex Lewandowski</li>
     <li>Vincent Liu</li>
-  </ul> 
-  </div>
-  <div class="column">
-  <ul>
     <li>Rupam Mahmood</li> 
     <li>Jincheng Mei</li>
     <li>Ofir Nachum</li>
     <li>Gergely Neu</li>
     <li>Mohammad Norouzi</li>
     <li>Andrew Patterson</li> 
-    <li>Yash Satsangi</li>
-    <li>Matthew Schlegel</li>
-    <li>Karan Singh</li>
-    <li>Ziyang Tang</li>
   </ul> 
   </div>
   <div class="column">
   <ul>
+    <li>Yash Satsangi</li>
+    <li>Matthew Schlegel</li>
+    <li>Karan Singh</li>
+    <li>Ziyang Tang</li>
     <li>Valentin Thomas</li>
     <li>Sergio Valcarcel Macua</li>
     <li>Junfeng Wen</li>
