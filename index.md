@@ -1,5 +1,5 @@
 ---
-title: 'NeurIPS 2019 Optimization Foundations for Reinforcement Learning Workshop'
+title: 'NeurIPS 2019 Optimization Foundations of Reinforcement Learning Workshop'
 layout: default
 ---
 
