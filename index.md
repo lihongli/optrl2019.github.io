@@ -40,10 +40,10 @@ The goal of this workshop is to catalyze the collaboration between reinforcement
 We are working to find funding to support travel for students, especially those in underrepresented groups.
 
 
-<!-- # Sponsors
+# Sponsors
 
 <p style="text-align: left">
-We thank our sponsors for making this workshop possible:
+We thank our sponsor to make this workshop possible:
 </p>
 
 <div style="text-align: left;">
@@ -55,7 +55,7 @@ We thank our sponsors for making this workshop possible:
 </div>
 {%- endfor -%}
 </div>
- -->
+
 
 
 
