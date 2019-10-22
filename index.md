@@ -37,7 +37,15 @@ The goal of this workshop is to catalyze the collaboration between reinforcement
 
 # Awards
 
-We are working to find funding to support travel for students, especially those in underrepresented groups.
+<!-- We are working to find funding to support travel for students, especially those in underrepresented groups. -->
+
+We will provide student travel awards to the authors of the accepted papers for complimentary workshop registration. 
+
+To apply for the travel awards, please send the following information to optrl2019@gmail.com by the application deadline **Oct. 28th**:
+- Title with [OptRL 2019 Student Travel Awards Application].
+- Your paper ID and title.
+- A brief bio, no more than one paragraph.
+- Student status certificate, such as photocopies of student ID or university website. 
 
 
 # Sponsors
