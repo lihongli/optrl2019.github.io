@@ -38,7 +38,7 @@ The goal of this workshop is to catalyze the collaboration between reinforcement
 
 A submission is up to 6 pages long in the <a href="assets/optrl_style/optrl_2019.sty">OptRL style</a>, excluding references and appendices. For camera-ready version, please use the "final" option:
 
-\usepackage[final]{optrl_2019} % produce camera-ready copy
+<p style="text-indent: 2em"> <B>\usepackage[final]{optrl_2019} %produce camera-ready copy</B> </p>
 
 The final versions will be posted on the workshop website. 
 
