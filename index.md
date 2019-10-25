@@ -34,15 +34,6 @@ The goal of this workshop is to catalyze the collaboration between reinforcement
 <!-- Workshop: **December 13th 2019** 
  -->
 
-# Camera-ready papers
-
-A submission is up to 6 pages long in the <a href="assets/optrl_style/optrl_2019.sty">OptRL style</a>, excluding references and appendices. For camera-ready version, please use the "final" option:
-
-<p style="text-indent: 2em"> <B>\usepackage[final]{optrl_2019} %produce camera-ready copy</B> </p>
-
-The final versions will be posted on the workshop website. 
-
-
 # Awards
 
 <!-- We are working to find funding to support travel for students, especially those in underrepresented groups. -->
