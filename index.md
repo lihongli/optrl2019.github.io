@@ -142,9 +142,6 @@ Bo Dai, Niao He, Nicolas Le Roux, Lihong Li, Dale Schuurmans, Martha White
 </div>
 </div>
 
-
- Zheng Wen
-
 <p style="text-align: left">
 For questions, please contact us:
 <a href="mailto:optrl2019@gmail.com">optrl2019@gmail.com</a>
