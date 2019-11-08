@@ -99,7 +99,7 @@ Bo Dai, Niao He, Nicolas Le Roux, Lihong Li, Dale Schuurmans, Martha White
     <li>Adithya Devraj</li>
     <li>Thinh Doan</li>
     <li>Simon Du</li>  
-    <li>Yihao Fen</li> 
+    <li>Yihao Feng</li> 
     <li>Roy Fox</li>
     <li>Matthieu Geist</li>
     <li>Saeed Ghadimi</li>
@@ -143,6 +143,7 @@ Bo Dai, Niao He, Nicolas Le Roux, Lihong Li, Dale Schuurmans, Martha White
 </div>
 
 
+ Zheng Wen
 
 <p style="text-align: left">
 For questions, please contact us:
