@@ -21,7 +21,7 @@ The goal of this workshop is to catalyze the collaboration between reinforcement
 
 - <a href="http://www.columbia.edu/~sa3305/">Shipra Agrawal</a> (Columbia University)
 - <a href="https://homes.cs.washington.edu/~sham/">Sham Kakade</a> (University of Washington) 
-- <a href="https://web.stanford.edu/~bvr/">Benjamin Van Roy</a> (Stanford University) 
+- <a href="https://web.stanford.edu/~bvr/">Benjamin Van Roy</a> (DeepMind & Stanford University) 
 - <a href="https://mwang.princeton.edu/">Mengdi Wang</a> (Princeton University) 
 - <a href="https://directory.ualberta.ca/person/huizhen">Huizhen Yu</a> (University of Alberta)
 
@@ -99,7 +99,7 @@ Bo Dai, Niao He, Nicolas Le Roux, Lihong Li, Dale Schuurmans, Martha White
     <li>Adithya Devraj</li>
     <li>Thinh Doan</li>
     <li>Simon Du</li>  
-    <li>Yihao Fen</li> 
+    <li>Yihao Feng</li> 
     <li>Roy Fox</li>
     <li>Matthieu Geist</li>
     <li>Saeed Ghadimi</li>
@@ -141,8 +141,6 @@ Bo Dai, Niao He, Nicolas Le Roux, Lihong Li, Dale Schuurmans, Martha White
   </div>
 </div>
 </div>
-
-
 
 <p style="text-align: left">
 For questions, please contact us:
