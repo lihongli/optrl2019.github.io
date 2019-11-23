@@ -8,37 +8,37 @@ layout: default
 
 We have received many high-quality submissions. The order below is random. Some papers will be selected to give an additional oral/spotlight presentation, which will be announced soon.
 
-- **Kalman Optimization for Value Approximation**. Shirli Di-Castro, Shie Mannor
+- <a href="assets/accepted_papers/17.pdf">**Kalman Optimization for Value Approximation**</a>. Shirli Di-Castro, Shie Mannor
 - **Hierarchical model-based policy optimization: from actions to action sequences and back**. Daniel McNamee
 - **Representational Limits in Reinforcement Learning**. Simon Du, Sham Kakade, Ruosong Wang, Lin Yang
-- **Apprenticeship Learning via Frank-Wolfe**.  Tom Zahavy, Haim Kaplan, Alon Cohen, Yishay Mansour	
-- **Improving Evolutionary Strategies With Past Descent Directions**. Asier Mujika, Florian Meier, Marcelo Matheus Gauy, Angelika Steger
+- <a href="assets/accepted_papers/10.pdf">**Apprenticeship Learning via Frank-Wolfe**</a>.  Tom Zahavy, Haim Kaplan, Alon Cohen, Yishay Mansour	
+- <a href="assets/accepted_papers/35.pdf">**Improving Evolutionary Strategies With Past Descent Directions**</a>. Asier Mujika, Florian Meier, Marcelo Matheus Gauy, Angelika Steger
 - **ALGAE: Policy Gradient from Arbitrary Experience**.	Ofir Nachum, Bo Dai, Ilya  Kostrikov, Dale  Schuurmans
 - **A Distributional Analysis of Sampling-Based Reinforcement Learning Algorithms**. Philip Amortila, Doina Precup, Prakash  Panangaden, Marc G. Bellemare	
-- **ISL: Optimal Policy Learning With Optimal Exploration-Exploitation Trade-Off**. Lucas C Cassano, Ali H Sayed
+- <a href="assets/accepted_papers/12.pdf">**ISL: Optimal Policy Learning With Optimal Exploration-Exploitation Trade-Off**</a>. Lucas C Cassano, Ali H Sayed
 - **Learning Reward Machines for Partially Observable Reinforcement Learning**. Rodrigo A Toro Icarte, Ethan Waldie, Toryn  Klassen,  Richard Valenzano, Margarita  Castro, Sheila A.  McIlraith	
-- **Provably Convergent Off-Policy Actor-Critic with Function Approximation**. Shangtong Zhang, Bo Liu, Hengshuai Yao, Shimon Whiteson
-- **Q-learning with UCB Exploration is Sample Efficient for Infinite-Horizon MDP**.	Kefan Dong, Yuanhao Wang, Xiaoyu Chen, Liwei Wang
-- **Adaptive Smoothing Path Integral Control**. Dominik Thalmeier, Bert Kappen, Simone Totaro, Vicenç Gómez
+- <a href="assets/accepted_papers/13.pdf">**Provably Convergent Off-Policy Actor-Critic with Function Approximation**</a>. Shangtong Zhang, Bo Liu, Hengshuai Yao, Shimon Whiteson
+- <a href="assets/accepted_papers/18.pdf">**Q-learning with UCB Exploration is Sample Efficient for Infinite-Horizon MDP**</a>.	Kefan Dong, Yuanhao Wang, Xiaoyu Chen, Liwei Wang
+- <a href="assets/accepted_papers/21.pdf">**Adaptive Smoothing Path Integral Control**</a>. Dominik Thalmeier, Bert Kappen, Simone Totaro, Vicenç Gómez
 - **Data Efficient Training for Reinforcement Learning with Adaptive Behavior Policy Sharing**. Ge Liu, Heng-Tze Cheng, Rui  Wu, Jing  Wang, Jayiden Ooi, Ang Li, Sibon Li, Lihong Li, Craig Boutilier
-- **A Two Time-Scale Update Rule Ensuring Convergence of Episodic Reinforcement Learning Algorithms at the Example of RUDDER**. Markus 	Holzleitner, José Arjona-Medina, Marius-Constantin  Dinu, Sepp  Hochreiter
-- **Distributional Reinforcement Learning for Energy-Based Sequential Models**. Tetiana Parshakova, Jean-Marc Andreoli, Marc Dymetman
-- **Multi-Task Reinforcement Learning without Interference**. Tianhe Yu, Saurabh Kumar, Abhishek Gupta, Karol Hausman, Sergey Levine, Chelsea Finn
+- <a href="assets/accepted_papers/11.pdf">**A Two Time-Scale Update Rule Ensuring Convergence of Episodic Reinforcement Learning Algorithms at the Example of RUDDER**</a>. Markus 	Holzleitner, José Arjona-Medina, Marius-Constantin  Dinu, Sepp  Hochreiter
+- <a href="assets/accepted_papers/34.pdf">**Distributional Reinforcement Learning for Energy-Based Sequential Models**</a>. Tetiana Parshakova, Jean-Marc Andreoli, Marc Dymetman
+- <a href="assets/accepted_papers/16.pdf">**Multi-Task Reinforcement Learning without Interference**</a>. Tianhe Yu, Saurabh Kumar, Abhishek Gupta, Karol Hausman, Sergey Levine, Chelsea Finn
 - **Toward Provably Unbiased Temporal-Difference Value Estimation**. Roy Fox
 - **Provable Q-Iteration without Concentrability** Ming Yu, Zhuoran Yang, Mengdi Wang, Zhaoran Wang
 - **Faster saddle-point optimization for solving large-scale Markov decision processes**. Joan Bas Serrano, Gergely Neu
 - **Approximate information state for partially observed systems**. Jayakumar Subramanian, Aditya Mahajan
-- **Logarithmic Regret for Online Control**. Naman Agarwal, Elad Hazan, Karan Singh	
+- <a href="assets/accepted_papers/37.pdf">**Logarithmic Regret for Online Control**</a>. Naman Agarwal, Elad Hazan, Karan Singh	
 - **Solving Discounted Stochastic Two-Player Games with Near-Optimal Time and Sample Complexity**. Aaron Sidford, Mengdi Wang, Lin Yang, Yinyu Ye
 - **Improved Upper and Lower Bounds for Policy and Strategy Iteration**. Aaron Sidford, Mengdi Wang, Lin  Yang, Yinyu Ye
 - **Reinforcement Learning in Feature Space: Matrix Bandit, Kernels, and Regret Bound**. Lin Yang, Mengdi Wang
-- **Deterministic Bellman Residual Minimization**. Ehsan Saleh, Nan Jiang,
+- <a href="assets/accepted_papers/8.pdf">**Deterministic Bellman Residual Minimization**</a>. Ehsan Saleh, Nan Jiang,
 - **Empirical Likelihood for Contextual Bandits**. Nikos Karampatziakis, John Langford, Paul Mineiro.
-- **Reinforcement Learning with Langevin Dynamics**. Parameswaran Kamalaruban, Doga Tekin, Paul Rolland, Volkan Cevher
+- <a href="assets/accepted_papers/36.pdf">**Reinforcement Learning with Langevin Dynamics**</a>. Parameswaran Kamalaruban, Doga Tekin, Paul Rolland, Volkan Cevher
 - **Provably Efficient Reinforcement Learning with Linear Function Approximation**. Chi Jin, Zhuoran Yang, Zhaoran Wang, Michael Jordan
 - **On the Finite-Time Convergence of Actor-Critic Algorithm**.	Shuang Qiu, Zhuoran Yang, Jieping Ye, Zhaoran Wang
 - **Approximability Gap between Model-based and Model-free Algorithms in Continuous State Space**. Kefan Dong, Yuping Luo, Tengyu Ma
-- **Entropy Regularization with Discounted Future State Distribution in Policy Gradient Methods**. Riashat Islam, Raihan Seraj, Pierre-Luc Bacon, Doina Precup,
+- <a href="assets/accepted_papers/15.pdf">**Entropy Regularization with Discounted Future State Distribution in Policy Gradient Methods**</a>. Riashat Islam, Raihan Seraj, Pierre-Luc Bacon, Doina Precup,
 - **Batch and Sequential Policy Optimization with Doubly Robust Objectives**. Alex P Lewandowski, Dale Schuurmans
 - **A Single Time-scale Stochastic Approximation Method for Nested Stochastic Optimization**. Saeed Ghadimi, Andrzej Ruszczynski, Mengdi Wang
 - **CAQL: Continuous Action Q-Learning**. Yinlam Chow, Moonkyung Ryu, Craig Boutilier, Ross Anderson, Christian Tjandraatmadja 
@@ -48,34 +48,34 @@ We have received many high-quality submissions. The order below is random. Some 
 - **Optimistic Adaptive Gradient Methods**. Xinyi Chen, Simon Du, Elad Hazan
 - [**QNTRPO: Including Curvature in TRPO**]({{ site.url }}/assets/accepted_papers/38.pdf). Devesh K Jha, Arvind U Raghunathan, Diego Romeres
 - **Selectively Planning with Imperfect Models via Learned Error Signals**. Muhammad Zaheer, Samuel Sokota, Erin Talvitie, Martha White
-- **A Stochastic Derivative Free Optimization Method with Momentum**. Eduard Gorbunov, Adel Bibi, Ozan Sener, El Houcine Bergou, Peter Richtarik
+- <a href="assets/accepted_papers/6.pdf">**A Stochastic Derivative Free Optimization Method with Momentum**</a>. Eduard Gorbunov, Adel Bibi, Ozan Sener, El Houcine Bergou, Peter Richtarik
 - **Actor-Critic Provably Finds Nash Equilibria of Linear-Quadratic Mean-Field Games**. Zuyue Fu, Zhuoran Yang, Yongxin Chen, Zhaoran Wang
-- **Trajectory-wise Control Variates for Variance Reduction in Policy Gradient Methods**. Xinyan Yan, Ching-An Cheng, Byron Boots
+- <a href="assets/accepted_papers/29.pdf">**Trajectory-wise Control Variates for Variance Reduction in Policy Gradient Methods**</a>. Xinyan Yan, Ching-An Cheng, Byron Boots
 - **Continuous Online Learning and New Insights to Online Imitation Learning**. Jonathan Lee, Ching-An Cheng, Ken Goldberg, Byron Boots
 - **Analyzing the Variance of Policy Gradient Estimators for the Linear-Quadratic Regulator**. James Preiss, Chen-Yu Wei, Sébastien Arnold, Marius Kloft
-- **Sample Efficient Policy Gradient Methods with Recursive Variance Reduction**. Pan Xu, Xi Gao, Quanquan Gu
-- **Adaptive Trust Region Policy Optimization: Convergence and Faster Rates of regularized MDPs**. Lior Shani, Yonathan Efroni, Shie Mannor
+- <a href="assets/accepted_papers/3.pdf">**Sample Efficient Policy Gradient Methods with Recursive Variance Reduction**</a>. Pan Xu, Xi Gao, Quanquan Gu
+- <a href="assets/accepted_papers/2.pdf">**Adaptive Trust Region Policy Optimization: Convergence and Faster Rates of regularized MDPs**</a>. Lior Shani, Yonathan Efroni, Shie Mannor
 - **A Lagrangian Method for Inverse Problems in Reinforcement Learning**. Pierre-Luc Bacon, Florian T Schaefer, Clement Gehring, Animashree Anandkumar, Emma Brunskill
-- **Policy Continuation and Policy Evolution with Hindsight Inverse Dynamics**. Hao Sun, Bo  Dai, Zhizhong Li, Xiaotong Liu, Rui  Xu, Dahua Lin, Bolei Zhou
-- **Observational Overfitting in Reinforcement Learning**. Xingyou Song, YiDing Jiang, Yilun Du, Behnam Neyshabur
+- <a href="assets/accepted_papers/19.pdf">**Policy Continuation and Policy Evolution with Hindsight Inverse Dynamics**</a>. Hao Sun, Bo Dai, Zhizhong Li, Xiaotong Liu, Rui  Xu, Dahua Lin, Bolei Zhou
+- <a href="assets/accepted_papers/25.pdf">**Observational Overfitting in Reinforcement Learning**</a>. Xingyou Song, YiDing Jiang, Yilun Du, Behnam Neyshabur
 - **Compatible features for Monotonic Policy Improvement**. Marcin B Tomczak, Sergio Valcarcel Macua, Enrique Munoz De Cote, Peter Vrancx
 - **Analysis of Q-Learning: Switching System Approach**. Donghwan Lee, Niao He
 - **On the Convergence of Approximate and Regularized Policy Iteration Schemes** Elena Smirnova, Elvis Dohmatob
 - **An Asynchronous Multi-Agent Actor-Critic Algorithm for Distributed Reinforcement Learning**. Yixuan Lin, Yuehan Luo, Wesley Suttle, Kaiqing Zhang, Zhuoran Yang, Zhaoran  Wang, Tamer Basar, Romeil Sandhu, Ji Liu
-- **On the Expected Dynamics of Nonlinear TD Learning**. David Brandfonbrener, Joan Bruna
-- **Revisit Policy Optimization in Matrix Form**. Sitao Luan, Xiao-Wen Chang, Doina Precup
+- <a href="assets/accepted_papers/7.pdf">**Geometric Insights into the Convergence of Nonlinear TD Learning**</a>. David Brandfonbrener, Joan Bruna
+- <a href="assets/accepted_papers/20.pdf">**Revisit Policy Optimization in Matrix Form**</a>. Sitao Luan, Xiao-Wen Chang, Doina Precup
 - **A Finite Time Analysis of Temporal Difference Learning With Linear Function Approximation**. Jalaj Bhandari, Daniel Russo
 - **Global Optimality Guarantees For  Policy Gradient Methods**. Jalaj Bhandari, Daniel Russo
 - **On the Sample Complexity of Actor-Critic for Reinforcement Learning**. Harshat Kumar, Alec Koppel, Alejandro Ribeiro
 - <a href="assets/accepted_papers/1.pdf">**Adaptive Discretization for Episodic Reinforcement Learning in Metric Spaces**</a>. Siddhartha Banerjee, Sean Sinclair, Christina Lee Yu
-- **Fast distributed temporal-difference learning via homotopy stochastic primal-dual optimization**. Dongsheng Ding, Xiaohan Wei, Zhuoran Yang, Zhaoran Wang, Mihailo Jovanovic
+- <a href="assets/accepted_papers/5.pdf">**Fast multi-agent temporal-difference learning via homotopy stochastic primal-dual method**</a>. Dongsheng Ding, Xiaohan Wei, Zhuoran Yang, Zhaoran Wang, Mihailo Jovanovic
 - **Performance of Q-learning with Linear Function Approximation: Stability and Finite Time Analysis**. Zaiwei Chen, Sheng Zhang, Thinh T Doan, Siva Theja Maguluri, John-Paul Clarke
-- **Feature-Based Q-Learning for Two-Player Stochastic Games**. Zeyu Jia, Lin Yang, Mengdi Wang
+- <a href="assets/accepted_papers/14.pdf">**Feature-Based Q-Learning for Two-Player Stochastic Games**</a>. Zeyu Jia, Lin Yang, Mengdi Wang
 - **A Convergence Result for Regularized Actor-Critic Methods**. Wesley Suttle, Zhuoran  Yang, Kaiqing Zhang, Ji Liu
 - **Neural Policy Gradient Methods: Global Optimality and Rates of Convergence**. Lingxiao Wang, Qi Cai, Zhuoran Yang
 - **All-Action Policy Gradient Methods: A Numerical Integration Approach**. Benjamin Petit, Loren Amdahl-Culleton, Yao Liu, Jimmy Smith, Pierre-Luc Bacon
 - **On Connections between Constrained Optimization and Reinforcement Learning**. Nino Vieillard, Olivier Pietquin, Matthieu Geist
-- **Worst-Case Regret Bound for Perturbation Based Exploration in Reinforcement Learning**. Ziping Xu, Ambuj Tewari
+- <a href="assets/accepted_papers/24.pdf">**Worst-Case Regret Bound for Perturbation Based Exploration in Reinforcement Learning**</a>. Ziping Xu, Ambuj Tewari
 - **Generalized Policy Updates for Policy Optimization**. Saurabh Kumar, Robert Dadashi, Zafarali Ahmed, Dale Schuurmans, Marc G. Bellemare
 - **Stochastic convex optimization for provably efficient apprenticeship learning**.  Angeliki Kamoutsi, Angeliki Kamoutsi, Goran Banjac, and John Lygeros
 - **Discounted Reinforcement Learning is Not an Optimization Problem**. Abhishek Naik, Roshan Shariff, Niko Yasui, Richard Sutton
