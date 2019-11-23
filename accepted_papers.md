@@ -67,7 +67,7 @@ We have received many high-quality submissions. The order below is random. Some 
 - **A Finite Time Analysis of Temporal Difference Learning With Linear Function Approximation**. Jalaj Bhandari, Daniel Russo
 - **Global Optimality Guarantees For  Policy Gradient Methods**. Jalaj Bhandari, Daniel Russo
 - **On the Sample Complexity of Actor-Critic for Reinforcement Learning**. Harshat Kumar, Alec Koppel, Alejandro Ribeiro
-- **Adaptive Discretization for Episodic Reinforcement Learning in Metric Spaces**. Siddhartha Banerjee, Sean Sinclair, Christina Lee Yu
+- <a href="assets/accepted_papers/1.pdf">**Adaptive Discretization for Episodic Reinforcement Learning in Metric Spaces**</a>. Siddhartha Banerjee, Sean Sinclair, Christina Lee Yu
 - **Fast distributed temporal-difference learning via homotopy stochastic primal-dual optimization**. Dongsheng Ding, Xiaohan Wei, Zhuoran Yang, Zhaoran Wang, Mihailo Jovanovic
 - **Performance of Q-learning with Linear Function Approximation: Stability and Finite Time Analysis**. Zaiwei Chen, Sheng Zhang, Thinh T Doan, Siva Theja Maguluri, John-Paul Clarke
 - **Feature-Based Q-Learning for Two-Player Stochastic Games**. Zeyu Jia, Lin Yang, Mengdi Wang
