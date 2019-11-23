@@ -46,7 +46,7 @@ We have received many high-quality submissions. The order below is random. Some 
 - **The Gambler's Problem and Beyond**. Baoxiang Wang, Shuai  Li, Jiajin Li, Siu	On
 - **Toward Understanding Catastrophic Interference in Online Reinforcement Learning**. Vincent Liu, Hengshuai Yao, Martha White
 - **Optimistic Adaptive Gradient Methods**. Xinyi Chen, Simon Du, Elad Hazan
-- **QNTRPO: Including Curvature in TRPO**. Devesh K Jha, Arvind U Raghunathan, Diego Romeres
+- [**QNTRPO: Including Curvature in TRPO**]({{ site.url }}/assets/accepted_papers/38.pdf). Devesh K Jha, Arvind U Raghunathan, Diego Romeres
 - **Selectively Planning with Imperfect Models via Learned Error Signals**. Muhammad Zaheer, Samuel Sokota, Erin Talvitie, Martha White
 - **A Stochastic Derivative Free Optimization Method with Momentum**. Eduard Gorbunov, Adel Bibi, Ozan Sener, El Houcine Bergou, Peter Richtarik
 - **Actor-Critic Provably Finds Nash Equilibria of Linear-Quadratic Mean-Field Games**. Zuyue Fu, Zhuoran Yang, Yongxin Chen, Zhaoran Wang
