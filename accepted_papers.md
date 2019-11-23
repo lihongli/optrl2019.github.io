@@ -60,7 +60,7 @@ We have received many high-quality submissions. The order below is random. Some 
 - **Observational Overfitting in Reinforcement Learning**</a>. Xingyou Song, YiDing Jiang, Yilun Du, Behnam Neyshabur
 - <a href="assets/accepted_papers/71.pdf">**Compatible features for Monotonic Policy Improvement**</a>. Marcin B Tomczak, Sergio Valcarcel Macua, Enrique Munoz De Cote, Peter Vrancx
 - **Analysis of Q-Learning: Switching System Approach**</a>. Donghwan Lee, Niao He
-- <a href="assets/accepted_papers/41.pdf">**On the Convergence of Approximate and Regularized Policy Iteration Schemes** Elena Smirnova, Elvis Dohmatob
+- <a href="assets/accepted_papers/41.pdf">**On the Convergence of Approximate and Regularized Policy Iteration Schemes**</a>. Elena Smirnova, Elvis Dohmatob
 - **An Asynchronous Multi-Agent Actor-Critic Algorithm for Distributed Reinforcement Learning**</a>. Yixuan Lin, Yuehan Luo, Wesley Suttle, Kaiqing Zhang, Zhuoran Yang, Zhaoran  Wang, Tamer Basar, Romeil Sandhu, Ji Liu
 - **On the Expected Dynamics of Nonlinear TD Learning**</a>. David Brandfonbrener, Joan Bruna
 - **Revisit Policy Optimization in Matrix Form**</a>. Sitao Luan, Xiao-Wen Chang, Doina Precup
