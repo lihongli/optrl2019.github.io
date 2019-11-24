@@ -6,7 +6,7 @@ layout: default
 
 # Accepted Papers
 
-We have received many high-quality submissions. Thanks for all the contributors.
+We have received many high-quality submissions. Thanks to all the contributors for the supports.
 
 <!-- The order below is random. 
 Some papers will be selected to give an additional oral/spotlight presentation, which will be announced soon. -->
