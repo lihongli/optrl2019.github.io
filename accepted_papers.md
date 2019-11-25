@@ -24,7 +24,7 @@ Some papers will be selected to give an additional oral/spotlight presentation, 
 - **Solving Discounted Stochastic Two-Player Games with Near-Optimal Time and Sample Complexity**. Aaron Sidford, Mengdi Wang, Lin Yang, Yinyu Ye
 - <a href="assets/accepted_papers/42.pdf">**Actor-Critic Provably Finds Nash Equilibria of Linear-Quadratic Mean-Field Games**</a>. Zuyue Fu, Zhuoran Yang, Yongxin Chen, Zhaoran Wang
 - <a href="assets/accepted_papers/44.pdf">**ALGAE: Policy Gradient from Arbitrary Experience**</a>.	Ofir Nachum, Bo Dai, Ilya  Kostrikov, Dale  Schuurmans
-- **Harnessing Infinite-Horizon Off-Policy Evaluation: Double Robustness via Duality**. Ziyang Tang, Yihao Feng, Lihong Li, Denny Zhou, Qiang Liu
+- <a href="assets/accepted_papers/48.pdf">**Harnessing Infinite-Horizon Off-Policy Evaluation: Double Robustness via Duality**</a>. Ziyang Tang, Yihao Feng, Lihong Li, Denny Zhou, Qiang Liu
 - <a href="assets/accepted_papers/49.pdf">**Learning Reward Machines for Partially Observable Reinforcement Learning**</a>. Rodrigo A Toro Icarte, Ethan Waldie, Toryn  Klassen,  Richard Valenzano, Margarita  Castro, Sheila A.  McIlraith	
 - **Representational Limits in Reinforcement Learning**. Simon Du, Sham Kakade, Ruosong Wang, Lin Yang
 - <a href="assets/accepted_papers/54.pdf">**On Computation and Generalization of Generative Adversarial Imitation Learning**</a>. Minshuo Chen, Yizhou Wang, Tianyi  Liu, Xingguo Li, Zhuoran Yang, Zhaoran Wang, Tuo Zhao
