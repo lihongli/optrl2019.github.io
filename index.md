@@ -29,7 +29,7 @@ The goal of this workshop is to catalyze the collaboration between reinforcement
 
 # Invited Panelist 
 
-、- <a href="http://incompleteideas.net/">Richard Sutton</a> (DeepMind & University of Alberta)
+- <a href="http://incompleteideas.net/">Richard Sutton</a> (DeepMind & University of Alberta)
 - <a href="https://www.cs.mcgill.ca/~dprecup/">Doina Precup</a> (McGill University)
 
 
