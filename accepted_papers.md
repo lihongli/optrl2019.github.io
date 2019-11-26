@@ -19,7 +19,7 @@ Some papers will be selected to give an additional oral/spotlight presentation, 
 ## Spotlight
 - <a href="assets/accepted_papers/7.pdf">**Geometric Insights into the Convergence of Nonlinear TD Learning**</a>. David Brandfonbrener, Joan Bruna
 - <a href="assets/accepted_papers/10.pdf">**Apprenticeship Learning via Frank-Wolfe**</a>.  Tom Zahavy, Haim Kaplan, Alon Cohen, Yishay Mansour	
-- **Empirical Likelihood for Contextual Bandits**. Nikos Karampatziakis, John Langford, Paul Mineiro.
+- <a href="assets/accepted_papers/22.pdf">**Empirical Likelihood for Contextual Bandits**</a>. Nikos Karampatziakis, John Langford, Paul Mineiro.
 - <a href="assets/accepted_papers/27.pdf">**Analysis of Q-Learning: Switching System Approach**</a>. Donghwan Lee, Niao He
 - **Solving Discounted Stochastic Two-Player Games with Near-Optimal Time and Sample Complexity**. Aaron Sidford, Mengdi Wang, Lin Yang, Yinyu Ye
 - <a href="assets/accepted_papers/42.pdf">**Actor-Critic Provably Finds Nash Equilibria of Linear-Quadratic Mean-Field Games**</a>. Zuyue Fu, Zhuoran Yang, Yongxin Chen, Zhaoran Wang
