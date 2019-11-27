@@ -35,7 +35,7 @@ Some papers will be selected to give an additional oral/spotlight presentation, 
 - <a href="assets/accepted_papers/17.pdf">**Kalman Optimization for Value Approximation**</a>. Shirli Di-Castro, Shie Mannor
 - <a href="assets/accepted_papers/51.pdf">**Hierarchical model-based policy optimization: from actions to action sequences and back**</a>. Daniel McNamee
 - <a href="assets/accepted_papers/35.pdf">**Improving Evolutionary Strategies With Past Descent Directions**</a>. Asier Mujika, Florian Meier, Marcelo Matheus Gauy, Angelika Steger
-- <a href="assets/accepted_papers/12.pdf">**ISL: Optimal Policy Learning With Optimal Exploration-Exploitation Trade-Off**</a>. Lucas C Cassano, Ali H Sayed
+- **ISL: Optimal Policy Learning With Optimal Exploration-Exploitation Trade-Off**. Lucas C Cassano, Ali H Sayed
 - <a href="assets/accepted_papers/13.pdf">**Provably Convergent Off-Policy Actor-Critic with Function Approximation**</a>. Shangtong Zhang, Bo Liu, Hengshuai Yao, Shimon Whiteson
 - <a href="assets/accepted_papers/18.pdf">**Q-learning with UCB Exploration is Sample Efficient for Infinite-Horizon MDP**</a>.	Kefan Dong, Yuanhao Wang, Xiaoyu Chen, Liwei Wang
 - <a href="assets/accepted_papers/21.pdf">**Adaptive Smoothing Path Integral Control**</a>. Dominik Thalmeier, Bert Kappen, Simone Totaro, Vicenç Gómez
