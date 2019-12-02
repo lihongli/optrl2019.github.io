@@ -6,7 +6,7 @@ layout: default
 
 # Accepted Papers
 
-We have received many high-quality submissions. Thanks for all the contributors.
+We have received many high-quality submissions. Thanks to all the contributors for the supports.
 
 <!-- The order below is random. 
 Some papers will be selected to give an additional oral/spotlight presentation, which will be announced soon. -->
@@ -19,12 +19,12 @@ Some papers will be selected to give an additional oral/spotlight presentation, 
 ## Spotlight
 - <a href="assets/accepted_papers/7.pdf">**Geometric Insights into the Convergence of Nonlinear TD Learning**</a>. David Brandfonbrener, Joan Bruna
 - <a href="assets/accepted_papers/10.pdf">**Apprenticeship Learning via Frank-Wolfe**</a>.  Tom Zahavy, Haim Kaplan, Alon Cohen, Yishay Mansour	
-- **Empirical Likelihood for Contextual Bandits**. Nikos Karampatziakis, John Langford, Paul Mineiro.
+- <a href="assets/accepted_papers/22.pdf">**Empirical Likelihood for Contextual Bandits**</a>. Nikos Karampatziakis, John Langford, Paul Mineiro.
 - <a href="assets/accepted_papers/27.pdf">**Analysis of Q-Learning: Switching System Approach**</a>. Donghwan Lee, Niao He
 - **Solving Discounted Stochastic Two-Player Games with Near-Optimal Time and Sample Complexity**. Aaron Sidford, Mengdi Wang, Lin Yang, Yinyu Ye
 - <a href="assets/accepted_papers/42.pdf">**Actor-Critic Provably Finds Nash Equilibria of Linear-Quadratic Mean-Field Games**</a>. Zuyue Fu, Zhuoran Yang, Yongxin Chen, Zhaoran Wang
 - <a href="assets/accepted_papers/44.pdf">**ALGAE: Policy Gradient from Arbitrary Experience**</a>.	Ofir Nachum, Bo Dai, Ilya  Kostrikov, Dale  Schuurmans
-- **Harnessing Infinite-Horizon Off-Policy Evaluation: Double Robustness via Duality**. Ziyang Tang, Yihao Feng, Lihong Li, Denny Zhou, Qiang Liu
+- <a href="assets/accepted_papers/48.pdf">**Harnessing Infinite-Horizon Off-Policy Evaluation: Double Robustness via Duality**</a>. Ziyang Tang, Yihao Feng, Lihong Li, Denny Zhou, Qiang Liu
 - <a href="assets/accepted_papers/49.pdf">**Learning Reward Machines for Partially Observable Reinforcement Learning**</a>. Rodrigo A Toro Icarte, Ethan Waldie, Toryn  Klassen,  Richard Valenzano, Margarita  Castro, Sheila A.  McIlraith	
 - **Representational Limits in Reinforcement Learning**. Simon Du, Sham Kakade, Ruosong Wang, Lin Yang
 - <a href="assets/accepted_papers/54.pdf">**On Computation and Generalization of Generative Adversarial Imitation Learning**</a>. Minshuo Chen, Yizhou Wang, Tianyi  Liu, Xingguo Li, Zhuoran Yang, Zhaoran Wang, Tuo Zhao
@@ -35,7 +35,7 @@ Some papers will be selected to give an additional oral/spotlight presentation, 
 - <a href="assets/accepted_papers/17.pdf">**Kalman Optimization for Value Approximation**</a>. Shirli Di-Castro, Shie Mannor
 - <a href="assets/accepted_papers/51.pdf">**Hierarchical model-based policy optimization: from actions to action sequences and back**</a>. Daniel McNamee
 - <a href="assets/accepted_papers/35.pdf">**Improving Evolutionary Strategies With Past Descent Directions**</a>. Asier Mujika, Florian Meier, Marcelo Matheus Gauy, Angelika Steger
-- <a href="assets/accepted_papers/12.pdf">**ISL: Optimal Policy Learning With Optimal Exploration-Exploitation Trade-Off**</a>. Lucas C Cassano, Ali H Sayed
+- **ISL: Optimal Policy Learning With Optimal Exploration-Exploitation Trade-Off**. Lucas C Cassano, Ali H Sayed
 - <a href="assets/accepted_papers/13.pdf">**Provably Convergent Off-Policy Actor-Critic with Function Approximation**</a>. Shangtong Zhang, Bo Liu, Hengshuai Yao, Shimon Whiteson
 - <a href="assets/accepted_papers/18.pdf">**Q-learning with UCB Exploration is Sample Efficient for Infinite-Horizon MDP**</a>.	Kefan Dong, Yuanhao Wang, Xiaoyu Chen, Liwei Wang
 - <a href="assets/accepted_papers/21.pdf">**Adaptive Smoothing Path Integral Control**</a>. Dominik Thalmeier, Bert Kappen, Simone Totaro, Vicenç Gómez

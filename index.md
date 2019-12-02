@@ -26,6 +26,13 @@ The goal of this workshop is to catalyze the collaboration between reinforcement
 - <a href="https://directory.ualberta.ca/person/huizhen">Huizhen Yu</a> (University of Alberta)
 
 
+
+# Invited Panelist 
+
+- <a href="http://incompleteideas.net/">Richard Sutton</a> (DeepMind & University of Alberta)
+- <a href="https://www.cs.mcgill.ca/~dprecup/">Doina Precup</a> (McGill University)
+
+
 # Dates
 
 - Submission deadline: **~~September 10th~~, ~~September 17th, 2019~~** (~~11:59 pm <a href="https://www.timeanddate.com/time/zones/aoe">AOE</a>~~) 
