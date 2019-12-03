@@ -37,17 +37,17 @@ The goal of this workshop is to catalyze the collaboration between reinforcement
 
 - Submission deadline: **~~September 10th~~, ~~September 17th, 2019~~** (~~11:59 pm <a href="https://www.timeanddate.com/time/zones/aoe">AOE</a>~~) 
 - Notifications: **~~October 1st, 2019~~** 
-- Camera ready: **November 15th, 2019** (11:59 pm <a href="https://www.timeanddate.com/time/zones/aoe">AOE</a>) 
-<!-- Workshop: **December 13th 2019** 
- -->
+- Camera ready: **~~November 15th, 2019~~** (~~11:59 pm <a href="https://www.timeanddate.com/time/zones/aoe">AOE</a>~~) 
+- Workshop: **December 14th, 2019** 
+
 
 # Awards
 
 <!-- We are working to find funding to support travel for students, especially those in underrepresented groups. -->
 
-We will provide student travel awards to the a few of authors of the accepted papers. We will reimburse the workshop registration. 
+We will provide student travel awards to the a few of authors of the accepted papers. 
 
-To apply for the travel awards, please send the following information to <a href="mailto:optrl2019@gmail.com">optrl2019@gmail.com</a> by the application deadline **Oct. 28th**:
+To apply for the travel awards, please send the following information to <a href="mailto:optrl2019@gmail.com">optrl2019@gmail.com</a> by the application deadline **~~Oct. 28th, 2019~~**:
 - Title with [OptRL 2019 Student Travel Awards Application].
 - Your paper ID and title.
 - A brief bio, no more than one paragraph.
