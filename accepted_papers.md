@@ -26,7 +26,7 @@ Some papers will be selected to give an additional oral/spotlight presentation, 
 - <a href="assets/accepted_papers/44.pdf">**ALGAE: Policy Gradient from Arbitrary Experience**</a>.	Ofir Nachum, Bo Dai, Ilya  Kostrikov, Dale  Schuurmans
 - <a href="assets/accepted_papers/48.pdf">**Harnessing Infinite-Horizon Off-Policy Evaluation: Double Robustness via Duality**</a>. Ziyang Tang, Yihao Feng, Lihong Li, Denny Zhou, Qiang Liu
 - <a href="assets/accepted_papers/49.pdf">**Learning Reward Machines for Partially Observable Reinforcement Learning**</a>. Rodrigo A Toro Icarte, Ethan Waldie, Toryn  Klassen,  Richard Valenzano, Margarita  Castro, Sheila A.  McIlraith	
-- <a href="assets/accepted_papers/53.pdf">**Representational Limits in Reinforcement Learning**</a>. Simon Du, Sham Kakade, Ruosong Wang, Lin Yang
+- <a href="assets/accepted_papers/53.pdf">**Is a Good Representation Sufficient for Sample Efficient Reinforcement Learning?**</a>. Simon Du, Sham Kakade, Ruosong Wang, Lin Yang
 - <a href="assets/accepted_papers/54.pdf">**On Computation and Generalization of Generative Adversarial Imitation Learning**</a>. Minshuo Chen, Yizhou Wang, Tianyi  Liu, Xingguo Li, Zhuoran Yang, Zhaoran Wang, Tuo Zhao
 - <a href="assets/accepted_papers/69.pdf">**A Distributional Analysis of Sampling-Based Reinforcement Learning Algorithms**</a>. Philip Amortila, Doina Precup, Prakash  Panangaden, Marc G. Bellemare	
 
