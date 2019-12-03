@@ -1,3 +1,7 @@
 - name: Google
   image: assets/logos/google.png
   url: https://ai.google/research/
+
+- name: DeepMind
+  image: assets/logos/deepmind.png
+  url: https://deepmind.com/
