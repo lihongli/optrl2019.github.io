@@ -13,16 +13,16 @@ layout: default
 | 09:10 - 09:30 | **Spotlight** |
 | 09:30 - 10:30 | **Poster and Coffee Break** |
 | 10:30 - 11:10 | **Invited Talk** - [Sham Kakade][sham]: *The Provable Effectiveness of Policy Gradient Methods in Reinforcement Learning*|
-| 11:10 - 11:30 | **Contributed Talk** - Naman Agarwal, Elad Hazan, Karan Singh:  <a href="assets/accepted_papers/37.pdf">*Logarithmic Regret for Online Control*</a>|
-| 11:30 - 12:10 | **Spotlight** |
+| 11:10 - 11:40 | **Panel Discussion** - [Richard Sutton][rich], [Doina Precup][doina] |
+| 11:40 - 12:20 | **Spotlight** |
 | 12:10 - 14:00 | **Lunch** |
 | 14:00 - 14:40 | **Invited Talk** - [Benjamin Van Roy][ben]: *TBA*|
 | 14:40 - 15:20 | **Invited Talk** - [Shipra Agrawal][shipra]: *Learning in structured MDPs with convex cost function: improved regret bounds for inventory management*|
 | 15:20 - 16:20 | **Poster and Coffee Break** |
 | 16:20 - 17:00 | **Invited Talk** - [Huizhen Yu][huizhen]: *On the Convergence of GTD($$\lambda$$) with General $$\lambda$$* |
 | 17:00 - 17:20 | **Contributed Talk**- Jonathan Lee, Ching-An Cheng, Ken Goldberg, Byron Boot: <a href="assets/accepted_papers/55.pdf">*Continuous Online Learning and New Insights to Online Imitation Learning*</a> |
-| 17:20 - 17:45 | **Panel Discussion** - [Richard Sutton][rich], [Doina Precup][doina] |
-| 17:45 - 18:00 | **Closing Remarks** |
+| 17:20 - 17:40 | **Contributed Talk** - Naman Agarwal, Elad Hazan, Karan Singh:  <a href="assets/accepted_papers/37.pdf">*Logarithmic Regret for Online Control*</a>|
+| 17:40 - 18:00 | **Closing Remarks** |
 
 <!-- [speakers]: #speakers -->
 [sham]: https://homes.cs.washington.edu/~sham/
