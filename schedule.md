@@ -13,7 +13,7 @@ layout: default
 | 09:10 - 09:30 | **Spotlight** |
 | 09:30 - 10:30 | **Poster and Coffee Break** |
 | 10:30 - 11:10 | **Invited Talk** - [Sham Kakade][sham]: *The Provable Effectiveness of Policy Gradient Methods in Reinforcement Learning*|
-| 11:10 - 11:40 | **Panel Discussion** - [Richard Sutton][rich], [Doina Precup][doina] |
+| 11:10 - 11:40 | **Panel Discussion** - [Richard Sutton][rich] and [Doina Precup][doina] |
 | 11:40 - 12:20 | **Spotlight** |
 | 12:10 - 14:00 | **Lunch** |
 | 14:00 - 14:40 | **Invited Talk** - [Benjamin Van Roy][ben]: *TBA*|
