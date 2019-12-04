@@ -15,7 +15,7 @@ layout: default
 | 10:30 - 11:10 | **Invited Talk** - [Sham Kakade][sham]: *The Provable Effectiveness of Policy Gradient Methods in Reinforcement Learning*|
 | 11:10 - 11:40 | **Panel Discussion** - [Richard Sutton][rich] and [Doina Precup][doina] |
 | 11:40 - 12:20 | **Spotlight** |
-| 12:10 - 14:00 | **Lunch** |
+| 12:20 - 14:00 | **Lunch** |
 | 14:00 - 14:40 | **Invited Talk** - [Benjamin Van Roy][ben]: *TBA*|
 | 14:40 - 15:20 | **Invited Talk** - [Shipra Agrawal][shipra]: *Learning in structured MDPs with convex cost function: improved regret bounds for inventory management*|
 | 15:20 - 16:20 | **Poster and Coffee Break** |
