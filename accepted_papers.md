@@ -21,7 +21,7 @@ Some papers will be selected to give an additional oral/spotlight presentation, 
 - <a href="assets/accepted_papers/10.pdf">**Apprenticeship Learning via Frank-Wolfe**</a>.  Tom Zahavy, Haim Kaplan, Alon Cohen, Yishay Mansour	
 - <a href="assets/accepted_papers/22.pdf">**Empirical Likelihood for Contextual Bandits**</a>. Nikos Karampatziakis, John Langford, Paul Mineiro.
 - <a href="assets/accepted_papers/27.pdf">**Analysis of Q-Learning: Switching System Approach**</a>. Donghwan Lee, Niao He
-- **Solving Discounted Stochastic Two-Player Games with Near-Optimal Time and Sample Complexity**. Aaron Sidford, Mengdi Wang, Lin Yang, Yinyu Ye
+-  <a href="assets/accepted_papers/33.pdf">**Solving Discounted Stochastic Two-Player Games with Near-Optimal Time and Sample Complexity**</a>. Aaron Sidford, Mengdi Wang, Lin Yang, Yinyu Ye
 - <a href="assets/accepted_papers/42.pdf">**Actor-Critic Provably Finds Nash Equilibria of Linear-Quadratic Mean-Field Games**</a>. Zuyue Fu, Zhuoran Yang, Yongxin Chen, Zhaoran Wang
 - <a href="assets/accepted_papers/44.pdf">**ALGAE: Policy Gradient from Arbitrary Experience**</a>.	Ofir Nachum, Bo Dai, Ilya  Kostrikov, Dale  Schuurmans
 - <a href="assets/accepted_papers/48.pdf">**Harnessing Infinite-Horizon Off-Policy Evaluation: Double Robustness via Duality**</a>. Ziyang Tang, Yihao Feng, Lihong Li, Denny Zhou, Qiang Liu
@@ -66,7 +66,7 @@ Some papers will be selected to give an additional oral/spotlight presentation, 
 - <a href="assets/accepted_papers/6.pdf">**A Stochastic Derivative Free Optimization Method with Momentum**</a>. Eduard Gorbunov, Adel Bibi, Ozan Sener, El Houcine Bergou, Peter Richtarik
 <!-- <a href="assets/accepted_papers/42.pdf">**Actor-Critic Provably Finds Nash Equilibria of Linear-Quadratic Mean-Field Games**</a>. Zuyue Fu, Zhuoran Yang, Yongxin Chen, Zhaoran Wang-->
 - <a href="assets/accepted_papers/29.pdf">**Trajectory-wise Control Variates for Variance Reduction in Policy Gradient Methods**</a>. Xinyan Yan, Ching-An Cheng, Byron Boots
-- **Analyzing the Variance of Policy Gradient Estimators for the Linear-Quadratic Regulator**. James Preiss, Chen-Yu Wei, Sébastien Arnold, Marius Kloft
+- <a href="assets/accepted_papers/62.pdf">**Analyzing the Variance of Policy Gradient Estimators for the Linear-Quadratic Regulator**</a>. James Preiss, Chen-Yu Wei, Sébastien Arnold, Marius Kloft
 - <a href="assets/accepted_papers/3.pdf">**Sample Efficient Policy Gradient Methods with Recursive Variance Reduction**</a>. Pan Xu, Xi Gao, Quanquan Gu
 - <a href="assets/accepted_papers/70.pdf">**A Lagrangian Method for Inverse Problems in Reinforcement Learning**</a>. Pierre-Luc Bacon, Florian T Schaefer, Clement Gehring, Animashree Anandkumar, Emma Brunskill
 - <a href="assets/accepted_papers/19.pdf">**Policy Continuation and Policy Evolution with Hindsight Inverse Dynamics**</a>. Hao Sun, Bo Dai, Zhizhong Li, Xiaotong Liu, Rui  Xu, Dahua Lin, Bolei Zhou
