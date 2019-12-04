@@ -3,15 +3,6 @@ title: 'NeurIPS 2019 Optimization Foundations for Reinforcement Learning Worksho
 layout: default
 ---
 
-
-# Schedule
-
----
-title: 'NeurIPS 2019 Optimization Foundations for Reinforcement Learning Workshop'
-layout: default
----
-
-
 # Schedule
 
 | Time | Event |
