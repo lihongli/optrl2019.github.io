@@ -21,8 +21,8 @@ layout: default
 | 15:20 - 16:20 | **Poster and Coffee Break** |
 | 16:20 - 17:00 | **Invited Talk** - [Huizhen Yu][huizhen]: *On the Convergence of GTD($\lambda$) with General $\lambda$* |
 | 17:00 - 17:20 | **Contributed Talk**- Jonathan Lee, Ching-An Cheng, Ken Goldberg, Byron Boot: *Continuous Online Learning and New Insights to Online Imitation Learning* |
-| 17: 20 - 17:45 | **Panel Discussion** - [Richard Sutton][rich], [Doina Precup][doina] |
-| 17：45 - 18：00 | **Closing Remarks** |
+| 17:20 - 17:45 | **Panel Discussion** - [Richard Sutton][rich], [Doina Precup][doina] |
+| 17:45 - 18:00 | **Closing Remarks** |
 
 <!-- [speakers]: #speakers -->
 [sham]: https://homes.cs.washington.edu/~sham/
