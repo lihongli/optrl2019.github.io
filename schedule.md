@@ -19,7 +19,7 @@ layout: default
 | 10:30 - 11:10 | **Invited Talk** - [Sham Kakade][sham]: *The Provable Effectiveness of Policy Gradient Methods in Reinforcement Learning*|
 | 11:10 - 11:40 | **Panel Discussion** - [Richard Sutton][rich] and [Doina Precup][doina] |
 | 11:40 - 12:20 | **Spotlight** |
-| | - Donghwan Lee, Niao He： <a href="assets/accepted_papers/27.pdf">**Analysis of Q-Learning: Switching System Approach**</a>|
+| | - Donghwan Lee, Niao He： <a href="assets/accepted_papers/27.pdf">*Analysis of Q-Learning: Switching System Approach*</a>|
 | | - Aaron Sidford, Mengdi Wang, Lin Yang, Yinyu Ye: <a href="assets/accepted_papers/33.pdf">*Solving Discounted Stochastic Two-Player Games with Near-Optimal Time and Sample Complexity*</a>|
 | | - Zuyue Fu, Zhuoran Yang, Yongxin Chen, Zhaoran Wang: <a href="assets/accepted_papers/42.pdf">*Actor-Critic Provably Finds Nash Equilibria of Linear-Quadratic Mean-Field Games*</a>|
 | | - Ziyang Tang, Yihao Feng, Lihong Li, Denny Zhou, Qiang Liu: <a href="assets/accepted_papers/48.pdf">*Harnessing Infinite-Horizon Off-Policy Evaluation: Double Robustness via Duality*</a>|
