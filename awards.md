@@ -19,7 +19,7 @@ To apply for the travel awards, please send the following information to <a href
 - Student status certificate, such as photocopies of student ID or university website. 
 
 
-Congratulations to the recipients of the student travel awards!
+Congratulations to the recipients of the student travel awards! The order below is random. 
 
 ## DeepMind Student Travel Awards
 
