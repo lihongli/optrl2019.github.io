@@ -43,6 +43,6 @@ Congratulations to the recipients of the student travel awards! The order below 
 - Simone Totaro, University of Sapienza
 - Hao Sun, Chinese University of Hong Kong
 - Baoxiang Wang, Chinese University of Hong Kong
-- Xiaotong Liu, Peking University
 - Shangtong Zhang, University of Oxford
+- Xiaotong Liu, Peking University
 
